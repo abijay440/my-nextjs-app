@@ -5,8 +5,8 @@ This is a simple API built with Next.js that returns basic information.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone [https://github.com/abijay440/my-nextjs-app.git]
+   cd my-nextjs-app
    ```
 
 2. Install dependencies
